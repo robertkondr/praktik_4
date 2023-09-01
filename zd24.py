@@ -9,7 +9,7 @@
 
 # Пример:
 # 4 -> 1 2 3 4
-# 9..
+# 9..nnnnnnnnnnnn
 
 N = int(input('введи кол-во кустов: '))
 spisok = list(map(int, input(f'введи {N} цифр через пробел: ').split()))
